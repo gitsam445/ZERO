@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class zeroday4_DSA5{
+public class zeroday5_DSA5{
 
     public static ArrayList<Integer> prefSum(int[] arr) {
         int n = arr.length;
@@ -22,4 +22,5 @@ public class zeroday4_DSA5{
             System.out.print(i + " ");
         }
     }
+
 }
